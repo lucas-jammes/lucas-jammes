@@ -28,7 +28,7 @@ At present, I'm focused on deepening my understanding and skills in **DevOps**, 
 
 ---
 
-⚡ **Fun Fact:** When I'm not immersed in the world of technology, you can often find me in nature, reveling in the soothing symphony of birdsong. There's something incredibly calming about watching birds – it's a different kind of problem-solving, understanding the language of nature!
+⚡ **Fun Fact:** When I'm not immersed in the world of technology, you can often find me in nature, reveling in the soothing symphony of birdsong. There's something incredibly calming about watching birds – it's a different kind of problem-solving, understanding the language of nature !
 
 ---
 
