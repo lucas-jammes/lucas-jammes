@@ -10,7 +10,7 @@ I am a true tech enthusiast, always eager to delve into different areas. I am pa
 
 I'm continually honing my skills and broadening my knowledge base. Currently, my focus is on mastering cybersecurity principles, furthering my programming prowess, and staying up-to-date with the latest in DevOps practices. 
 
-## 💞️ I’m looking to collaborate on ...
+## 💞️ I’m looking to collaborate on
 
 I'm open to working on intriguing projects that push the boundaries of DevOps practices, cybersecurity, and software development. I see every collaboration as an opportunity to learn, grow, and create something meaningful.
 
