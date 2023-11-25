@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Lucas Jammes ! 
 
-I'm a **Master's student in Cybersecurity**, driven by the fascinating world of IT. I cover a broad spectrum of computing fundamentals, system and network, development, and, of course, cybersecurity.
+I'm a **Master's student in Computer Science**, driven by the fascinating world of IT. I cover a broad spectrum of computing fundamentals, system and network, development, and, of course, cybersecurity.
 
 ## 👀 My Interests
 
