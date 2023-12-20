@@ -16,7 +16,9 @@ I'm open to working on intriguing projects that push the boundaries of DevOps pr
 
 ## 📫 How to reach me
 
-I'd love to connect with like-minded professionals, prospective collaborators, or anyone who's as enthusiastic about tech as I am. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucas-jammes/).
+I'd love to connect with like-minded professionals, prospective collaborators, or anyone who's as enthusiastic about tech as I am. Feel free to reach out to me on LinkedIn:
+
+[![LinkedIn](https://github.com/lucas-jammes/lucas-jammes/assets/139063039/0e69870c-55f6-4b44-bca2-99d25d979e50)](https://fr.linkedin.com/in/lucas-jammes)
 
 ## 🚀 My Learning Journey 
 
@@ -31,4 +33,3 @@ At present, I'm focused on deepening my understanding and skills in **DevOps**, 
 ⚡ **Fun Fact:** When I'm not immersed in the world of technology, you can often find me in nature, reveling in the soothing symphony of birdsong. There's something incredibly calming about watching birds – it's a different kind of problem-solving, understanding the language of nature !
 
 ---
-
