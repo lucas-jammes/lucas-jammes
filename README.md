@@ -24,7 +24,7 @@ I'd love to connect with like-minded professionals, prospective collaborators, o
 
 I believe in lifelong learning and strive to continually upskill. Here's a glimpse of my current progress in some key areas:
 
-[![Learning Progress](https://api.roadmap.sh/v1-badge/wide/64a9c26314678473bb5a087e?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a9c26314678473bb5a087e?variant=dark&roadmaps=devops%2Cpython%2Ccyber-security%2Cdocker)](https://roadmap.sh)
 
 At present, I'm focused on deepening my understanding and skills in **DevOps**, **Docker**, **Code Review techniques**, and **Cybersecurity**.
 
