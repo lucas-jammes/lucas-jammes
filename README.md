@@ -18,7 +18,7 @@ I'm open to working on intriguing projects that push the boundaries of DevOps pr
 
 I'd love to connect with like-minded professionals, prospective collaborators, or anyone who's as enthusiastic about tech as I am. Feel free to reach out to me on LinkedIn:
 
-[![LinkedIn](https://github.com/lucas-jammes/lucas-jammes/assets/139063039/0e69870c-55f6-4b44-bca2-99d25d979e50)](https://fr.linkedin.com/in/lucas-jammes)
+[![LinkedIn](https://github.com/user-attachments/assets/a259021e-2385-4bc7-b6db-eca54bf4c0d0)](https://fr.linkedin.com/in/lucas-jammes)
 
 ## 🚀 My Learning Journey 
 
